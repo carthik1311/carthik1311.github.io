@@ -1,28 +1,17 @@
 [
-  {
-   
-    "name": "Karthik"
-    
-  },
-   {
-   
-    "name": "Meghana"
-    
-  },
-   {
-   
-    "name": "Kishore"
-    
-  },
-   {
-   
-    "name": "Kempa"
-    
-  },
-   {
-   
-    "name": "Ranga"
-    
-  }
-  
+    {
+        "name": "Karthik"
+    },
+    {
+        "name": "Meghana"
+    },
+    {
+        "name": "Kishore"
+    },
+    {
+        "name": "Kempa"
+    },
+    {
+        "name": "Ranga"
+    }
 ]
