@@ -2,4 +2,6 @@
     "fruit": "Apple",
     "size": "Large",
     "color": "Red"
+    "price":"20"
+    
 }
