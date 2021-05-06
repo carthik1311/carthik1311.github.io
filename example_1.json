@@ -1,7 +1,7 @@
 {
     "fruit": "Apple",
     "size": "Large",
-    "color": "Red"
-    "price":"20"
+    "color": "Red",
+    "price": "20"
     
 }
