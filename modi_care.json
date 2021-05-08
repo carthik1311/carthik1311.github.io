@@ -1,28 +1,32 @@
 [
     {
         "categoryModel": "category1",
-        "itemDetailsModel": {
-            "itemName": "karthik",
-            "mrp": 55,
-            "dp": 12,
-            "bv": 31,
-            "pv": 11,
-            "discount": 55,
-            "imageUrl": "https://raw.githubusercontent.com/carthik1311/carthik1311.github.io/main/images/colgate.jpg",
-            "quantity": 1
-        }
+        "itemDetailsModel": [
+            {
+                "itemName": "karthik",
+                "mrp": 55,
+                "dp": 12,
+                "bv": 31,
+                "pv": 11,
+                "discount": 55,
+                "imageUrl": "https://raw.githubusercontent.com/carthik1311/carthik1311.github.io/main/images/colgate.jpg",
+                "quantity": 1
+            }
+        ]
     },
     {
         "categoryModel": "category2",
-        "itemDetailsModel": {
-            "itemName": "Meghana",
-            "mrp": 55,
-            "dp": 12,
-            "bv": 31,
-            "pv": 11,
-            "discount": 55,
-            "imageUrl": "https://raw.githubusercontent.com/carthik1311/carthik1311.github.io/main/images/colgate.jpg",
-            "quantity": 1
-        }
+        "itemDetailsModel": [
+            {
+                "itemName": "meghana",
+                "mrp": 55,
+                "dp": 12,
+                "bv": 31,
+                "pv": 11,
+                "discount": 55,
+                "imageUrl": "https://raw.githubusercontent.com/carthik1311/carthik1311.github.io/main/images/colgate.jpg",
+                "quantity": 1
+            }
+        ]
     }
 ]
