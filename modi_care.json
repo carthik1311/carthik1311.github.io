@@ -1,31 +1,65 @@
 [
     {
-        "categoryModel": "category1",
+        "categoryModel": "Personal Care",
         "itemDetailsModel": [
             {
-                "itemName": "karthik",
+                "itemName": "Colgate",
                 "mrp": 55,
                 "dp": 12,
                 "bv": 31,
                 "pv": 11,
                 "discount": 55,
-                "imageUrl": "https://raw.githubusercontent.com/carthik1311/carthik1311.github.io/main/images/colgate.jpg",
-                "quantity": 1
+                "imageUrl": "https://raw.githubusercontent.com/carthik1311/carthik1311.github.io/main/images/colgate.jpg"
+            },
+            {
+                "itemName": "Closeup",
+                "mrp": 55,
+                "dp": 12,
+                "bv": 31,
+                "pv": 11,
+                "discount": 55,
+                "imageUrl": "https://raw.githubusercontent.com/carthik1311/carthik1311.github.io/main/images/colgate.jpg"
+            },
+            {
+                "itemName": "Pepsodent",
+                "mrp": 55,
+                "dp": 12,
+                "bv": 31,
+                "pv": 11,
+                "discount": 55,
+                "imageUrl": "https://raw.githubusercontent.com/carthik1311/carthik1311.github.io/main/images/colgate.jpg"
             }
         ]
     },
     {
-        "categoryModel": "category2",
+        "categoryModel": "Skin Care",
         "itemDetailsModel": [
             {
-                "itemName": "meghana",
+                "itemName": "Alovera Gel",
                 "mrp": 55,
                 "dp": 12,
                 "bv": 31,
                 "pv": 11,
                 "discount": 55,
-                "imageUrl": "https://raw.githubusercontent.com/carthik1311/carthik1311.github.io/main/images/colgate.jpg",
-                "quantity": 1
+                "imageUrl": "https://raw.githubusercontent.com/carthik1311/carthik1311.github.io/main/images/colgate.jpg"
+            },
+            {
+                "itemName": "Ponds Face Wash",
+                "mrp": 55,
+                "dp": 12,
+                "bv": 31,
+                "pv": 11,
+                "discount": 55,
+                "imageUrl": "https://raw.githubusercontent.com/carthik1311/carthik1311.github.io/main/images/colgate.jpg"
+            },
+            {
+                "itemName": "Nivia Body Lotion",
+                "mrp": 55,
+                "dp": 12,
+                "bv": 31,
+                "pv": 11,
+                "discount": 55,
+                "imageUrl": "https://raw.githubusercontent.com/carthik1311/carthik1311.github.io/main/images/colgate.jpg"
             }
         ]
     }
