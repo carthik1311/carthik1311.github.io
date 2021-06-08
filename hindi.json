@@ -1,0 +1,25 @@
+[
+    {
+        "category": "Numbers",
+        "categoryDetails": [
+            {
+                "kannadaText": "kannada",
+                "hindiText": "hindi",
+                "englishText": "english",
+                "hindiToKannada": "hindi to kannada"
+            }
+        ]
+    },
+    {
+        "category": "Animals",
+        "categoryDetails": [
+            {
+                "kannadaText": "kannada",
+                "hindiText": "hindi",
+                "englishText": "english",
+                "hindiToKannada": "hindi to kannada"
+            }
+        ]
+    }
+    
+]
