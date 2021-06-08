@@ -1,6 +1,7 @@
 [
     {
         "category": "Numbers",
+        "icon":"https://raw.githubusercontent.com/carthik1311/carthik1311.github.io/main/icons/numbers.png",
         "categoryDetails": [
             {
                 "kannadaText": "kannada",
@@ -12,6 +13,7 @@
     },
     {
         "category": "Animals",
+        "icon":"https://raw.githubusercontent.com/carthik1311/carthik1311.github.io/main/icons/elephant.png",
         "categoryDetails": [
             {
                 "kannadaText": "kannada",
@@ -23,6 +25,7 @@
     },
     {
         "category": "Birds",
+        "icon":"https://raw.githubusercontent.com/carthik1311/carthik1311.github.io/main/icons/bird.png",
         "categoryDetails": [
             {
                 "kannadaText": "kannada",
@@ -34,6 +37,7 @@
     },
     {
         "category": "Body Parts",
+        "icon":"https://raw.githubusercontent.com/carthik1311/carthik1311.github.io/main/icons/human-body.png",
         "categoryDetails": [
             {
                 "kannadaText": "kannada",
@@ -45,6 +49,7 @@
     },
     {
         "category": "Weather",
+        "icon":"https://raw.githubusercontent.com/carthik1311/carthik1311.github.io/main/icons/wheather.png",
         "categoryDetails": [
             {
                 "kannadaText": "kannada",
