@@ -20,6 +20,39 @@
                 "hindiToKannada": "hindi to kannada"
             }
         ]
+    },
+    {
+        "category": "Birds",
+        "categoryDetails": [
+            {
+                "kannadaText": "kannada",
+                "hindiText": "hindi",
+                "englishText": "english",
+                "hindiToKannada": "hindi to kannada"
+            }
+        ]
+    },
+    {
+        "category": "Body Parts",
+        "categoryDetails": [
+            {
+                "kannadaText": "kannada",
+                "hindiText": "hindi",
+                "englishText": "english",
+                "hindiToKannada": "hindi to kannada"
+            }
+        ]
+    },
+    {
+        "category": "Weather",
+        "categoryDetails": [
+            {
+                "kannadaText": "kannada",
+                "hindiText": "hindi",
+                "englishText": "english",
+                "hindiToKannada": "hindi to kannada"
+            }
+        ]
     }
     
 ]
