@@ -1,0 +1,37 @@
+[
+    {
+        "name":"karthik",
+        "gender":"male",
+        "imageUrl":"https://raw.githubusercontent.com/carthik1311/carthik1311.github.io/main/icons/numbers.png"
+    },
+    {
+        "name":"Meghana",
+        "gender":"female",
+        "imageUrl":"https://raw.githubusercontent.com/carthik1311/carthik1311.github.io/main/icons/elephant.png"
+    },
+    {
+        "name":"Kishore",
+        "gender":"male",
+        "imageUrl":"https://raw.githubusercontent.com/carthik1311/carthik1311.github.io/main/icons/bird.png"
+    },
+    {
+        "name":"Kiran",
+        "gender":"male",
+        "imageUrl":"https://raw.githubusercontent.com/carthik1311/carthik1311.github.io/main/icons/human-body.png"
+    },
+    {
+        "name":"Bhavana",
+        "gender":"female",
+        "imageUrl":"https://raw.githubusercontent.com/carthik1311/carthik1311.github.io/main/icons/wheather.png"
+    },
+    {
+        "name":"Nobitha",
+        "gender":"male",
+        "imageUrl":"https://raw.githubusercontent.com/carthik1311/carthik1311.github.io/main/icons/wheather.png"
+    },
+    {
+        "name":"Shizuka",
+        "gender":"male",
+        "imageUrl":"https://raw.githubusercontent.com/carthik1311/carthik1311.github.io/main/icons/wheather.png"
+    }
+]
