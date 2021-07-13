@@ -31,6 +31,11 @@
     },
     {
         "name":"Shizuka",
+        "gender":"female",
+        "imageUrl":"https://raw.githubusercontent.com/carthik1311/carthik1311.github.io/main/icons/wheather.png"
+    },
+    {
+        "name":"Giyaan",
         "gender":"male",
         "imageUrl":"https://raw.githubusercontent.com/carthik1311/carthik1311.github.io/main/icons/wheather.png"
     }
