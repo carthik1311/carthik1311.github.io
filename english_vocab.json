@@ -7,13 +7,11 @@
             {
                 "english": "english",
                 "kannada": "kannada",
-                "example":[
-                    {
-                    "example1":"example1",
-                    "example2":"example2",
-                    "example3":"example3"
-                    }
-                    ]
+                "example1":"example1",
+                "example2":"example2",
+                "example3":"example3"
+                    
+                
             }
         ]
     },
@@ -24,13 +22,9 @@
             {
                 "english": "english",
                 "kannada": "kannada",
-                "example":[
-                    {
-                    "example1":"example1",
-                    "example2":"example2",
-                    "example3":"example3"
-                    }
-                    ]
+                "example1":"example1",
+                "example2":"example2",
+                "example3":"example3"
             }
         ]
     }
