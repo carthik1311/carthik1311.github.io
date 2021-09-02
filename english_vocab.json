@@ -1,20 +1,36 @@
   
 [
     {
-        "english": "Vocabulary",
+        "english": "Vocabulay",
+        
         "englishDetails": [
             {
                 "english": "english",
-                "kannada": "kannada"
+                "kannada": "kannada",
+                "example":[
+                    {
+                    "example1":"example1",
+                    "example2":"example2",
+                    "example3":"example3"
+                    }
+                    ]
             }
         ]
     },
     {
-        "english": "Tricky Sentences",     
+        "english": "Tricky Sentences",
+        
         "englishDetails": [
             {
                 "english": "english",
-                "kannada": "kannada"
+                "kannada": "kannada",
+                "example":[
+                    {
+                    "example1":"example1",
+                    "example2":"example2",
+                    "example3":"example3"
+                    }
+                    ]
             }
         ]
     }
