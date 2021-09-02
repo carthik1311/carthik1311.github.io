@@ -1,27 +1,12 @@
   
 [
     {
-        "english": "Vocabulay",
-        
+        "english": "Vocabulary",
         "englishDetails": [
             {
                 "english": "english",
                 "kannada": "kannada",
-                "example1":"example1",
-                "example2":"example2",
-                "example3":"example3"
-                    
-                
-            }
-        ]
-    },
-    {
-        "english": "Tricky Sentences",
-        
-        "englishDetails": [
-            {
-                "english": "english",
-                "kannada": "kannada",
+                "pos":"pos",
                 "example1":"example1",
                 "example2":"example2",
                 "example3":"example3"
