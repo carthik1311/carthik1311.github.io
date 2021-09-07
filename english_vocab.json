@@ -9,7 +9,39 @@
                 "pos":"adjective",
                 "example1":"He was a creepy looking guy",
                 "example2":"It feels a bit creepy here.Let's get out",
-                "example3":"A Creepy dirver(Who makes you uncomfortable with his sexual behaviour)"
+                "example3":"A Creepy dirver(Who makes you uncomfortable with his sexual behaviour)/face/sound/film/smile/man/feelings"
+            },
+           {
+                "english": "Agile",
+                "kannada": "ತುಂಬಾ ಚುರುಕಾದ/ಚಟುವಟಿಕೆಯಿಂದ ಕೂಡಿದ/ಲವಲವಿಕೆಯ",
+                "pos":"adjective",
+                "example1":"Your father looks very agile",
+                "example2":"A 30-minutes regular excercise keeps you agile",
+                "example3":"He is got an agile mind(think and understand quickly)"
+            },
+             {
+            "english": "Grumpy",
+            "kannada": "ಸದಾ ಸಿಡುಕಿನ/ಚಿಕ್ಕ-ಚಿಕ್ಕ ವಿಷಯಗಳಿಗೆ ಸಿಟ್ಟಾಗುವ",
+            "pos":"adjective",
+            "example1":"A gurmpy boss/women/manager/face",
+            "example2":"The shopkeeper is always gurmpy",
+            "example3":"Why are you so grumpy today?"
+            },
+          {
+            "english": "Pungent",
+            "kannada": "ಘಾಟಾದ ವಾಸನೆ/ರುಚಿ",
+            "pos":"adjective",
+            "example1":"These dry chillies are too pungent",
+            "example2":"Garlic has a pungent aroma",
+            "example3":"Who is wearing a pungent perfume?"
+            },
+          {
+            "english": "Gloomy",
+            "kannada": "ಕತ್ತಲೆ ಕವಿದ/ನಿರಾಶದಾಯಕ/ಭರವಸೆ ಕಳೆದುಕೊಂಡಿರುವ",
+            "pos":"adjective",
+            "example1":"Whether is gloomy today",
+            "example2":"Who is in the gloomy room?",
+            "example3":"A gloomy person/expression(Unhappy and without hope)"
             }
         ]
     }
