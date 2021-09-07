@@ -40,9 +40,50 @@
             "kannada": "ಕತ್ತಲೆ ಕವಿದ/ನಿರಾಶದಾಯಕ/ಭರವಸೆ ಕಳೆದುಕೊಂಡಿರುವ",
             "pos":"adjective",
             "example1":"Whether is gloomy today",
-            "example2":"Who is in the gloomy room?",
+            "example2":"Who is in that gloomy room?",
             "example3":"A gloomy person/expression(Unhappy and without hope)"
+            },
+          {
+            "english": "Entice",
+            "kannada": "ಆಕರ್ಷಿಸು/ಸೆಳೆ",
+            "pos":"verb",
+            "example1":"These ads are enticing young people.",
+            "example2":"Companies nowadays do anything to entice the customers.",
+            "example3":" An enticing smell.(Adjective)"
+            },
+          {
+            "english": "Resonate",
+            "kannada": "ಮೊಳಗು/ಪ್ರತಿಧ್ವನಿಸು",
+            "pos":"verb",
+            "example1":"His voice resonated in the empty hall.",
+            "example2":"The temple resonated with their laughter.",
+            "example3":"My father’s those words always resonate in my head."
+            },
+          {
+            "english": "Expel",
+            "kannada": "ಶಾಲೆ, ಸಂಸ್ಥೆ ಅಥವಾ ದೇಶದಿಂದ ಹೊರಹಾಕು",
+            "pos":"verb",
+            "example1":"He was expelled from college for cheating.",
+            "example2":"Air is expelled from the lungs when we breathe out.",
+            "example3":"The committee made a decision to expel the three members."
+            },
+          {
+            "english": "Withhold",
+            "kannada": "ಕೊಡಲು ನಿರಾಕರಿಸು ತಡೆಹಿಡಿದಿರು",
+            "pos":"verb",
+            "example1":"The company is withholding the payments of many labourers.",
+            "example2":"The personal details of the woman are being withheld.",
+            "example3":"Financial aid for poor countries has been withheld."
+            },
+          {
+            "english": "Intervene",
+            "kannada": "ಕೊಡಲು ನಿರಾಕರಿಸು ತಡೆಹಿಡಿದಿರು",
+            "pos":"verb",
+            "example1":"The Prime Minister has intervened personally",
+            "example2":"The situation calmed down when the principal intervened.",
+            "example3":"'Stop shouting! Seema,’ her mother intervened."
             }
+          
         ]
     }
 ]
