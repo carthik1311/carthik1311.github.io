@@ -4,12 +4,12 @@
         "english": "Vocabulary",
         "englishDetails": [
             {
-                "english": "englishh",
-                "kannada": "kannada",
-                "pos":"pos",
-                "example1":"example1",
-                "example2":"example2",
-                "example3":"example33"
+                "english": "Creepy",
+                "kannada": "ವಿಕಾರವಾದ/ಭಯಪಡಿಸುವ/ತುಂಬಾ ವಿಚಿತ್ರವಾದ",
+                "pos":"adjective",
+                "example1":"He was a creepy looking guy",
+                "example2":"It feels a bit creepy here.Let's get out",
+                "example3":"A Creepy dirver(Who makes you uncomfortable with his sexual behaviour)"
             }
         ]
     }
