@@ -77,12 +77,61 @@
             },
           {
             "english": "Intervene",
-            "kannada": "ಕೊಡಲು ನಿರಾಕರಿಸು ತಡೆಹಿಡಿದಿರು",
+            "kannada": "ಮಧ್ಯ ಪ್ರವೇಶಿಸುು",
             "pos":"verb",
             "example1":"The Prime Minister has intervened personally",
             "example2":"The situation calmed down when the principal intervened.",
             "example3":"'Stop shouting! Seema,’ her mother intervened."
+            },
+          {
+            "english": "Confront",
+            "kannada": "ಎದುರಿಸು, ಮುಖಾಮುಖಿಯಾಗು",
+            "pos":"verb",
+            "example1":"He decided to confront the rowdies",
+            "example2":"I confronted the problem with confidence",
+            "example3":"You'll become stronger when you confront the difficulties in your life"
+            },
+          {
+            "english": "Disrupt",
+            "kannada": "ಭಂಗ ಮಾಡು, ಅಡ್ಡಪಡಿಸು, ತಡೆಯೊಡ್ದು",
+            "pos":"verb",
+            "example1":"The group of protestors disrupted the minister speech",
+            "example2":"Jio disrupted the telecom industry in 2016",
+            "example3":"Heavy rain disrupted the traffice in the city"
+            },
+          {
+            "english": "Exploit",
+            "kannada": "ಪೂರ್ತಿ ಪ್ರಯೋಜನ ಪಡೆ, ಲಾಭಕ್ಕಾಗಿ ಬಳಸಿಕೊಳ್ಳು, ಶೋಷಿಸು",
+            "pos":"verb",
+            "example1":"We should fully exploit the resources available in the company",
+            "example2":"You are exploiting these children for money",
+            "example3":"In the 17th century, people were kidnapped from Africa and exploited to work as servants in America"
+            },
+          {
+            "english": "Abolish",
+            "kannada": "ಅಧಿಕೃತವಾಗಿ ರದ್ದು ಮಾಡು, ನಿರ್ಮೂಲನೆ ಮಾಡು",
+            "pos":"verb",
+            "example1":"India has abolished multiple taxes over the last few years",
+            "example2":"The americans abolished slavery in 1863",
+            "example3":"What do you think should be abolished in India?"
+            },
+          {
+            "english": "Abandon",
+            "kannada": "ಶಾಶ್ವತವಾಗಿ ತ್ಯಜಿಸಿಬಿಡು(ಯಾರನ್ನಾದರೂ)",
+            "pos":"verb",
+            "example1":"He was abandoned by his parents at 6",
+            "example2":"My dad abandoned his old Ambassador car",
+            "example3":"The village had been abandoned"
+            },
+          {
+            "english": "Chaotic",
+            "kannada": "ಗೊಂದಲದ, ಅಸ್ತವ್ಯಸ್ತದ",
+            "pos":"adjective",
+            "example1":"Her life is full of chaotic",
+            "example2":"Our house is a bit chaotic at the moment please come back later",
+            "example3":"Some streets in Bengaluru are extremely chaotic to walk in"
             }
+          
           
         ]
     }
