@@ -130,7 +130,162 @@
             "example1":"Her life is full of chaotic",
             "example2":"Our house is a bit chaotic at the moment please come back later",
             "example3":"Some streets in Bengaluru are extremely chaotic to walk in"
+            },
+          {
+            "english": "Ruthless",
+            "kannada": "ಕರುಣೆಯಿಲ್ಲದ",
+            "pos":"adjective",
+            "example1":"A Ruthless police officer",
+            "example2":"The teacher is being so ruthless towards students",
+            "example3":"He escaped from the ruthless gangs of people"
+            },
+          {
+            "english": "Reluctant",
+            "kannada": "ಮನಸಿಲ್ಲದ, ಇಷ್ಟ ಇಲ್ಲ ಅಂದ್ರು ಮಾಡೋದು",
+            "pos":"adjective",
+            "example1":"She was ruluctant to go with him",
+            "example2":"She gave a reluctant smile",
+            "example3":"He doesn't want ruluctant employees in his company"
+            },
+          {
+            "english": "Deceptive",
+            "kannada": "ಇಲ್ಲದೆ ಇರುವುದನ್ನು ನಿಜವೆಂದು ನಂಬಿಸುವುದು, ದಾರಿ ತಪ್ಪಿಸುವ",
+            "pos":"adjective",
+            "example1":"Appearence can be deceptive",
+            "example2":"A new law must be made against deceptive ads",
+            "example3":"Magic tricks are always deceptive"
+            },
+          {
+            "english": "Sceptical",
+            "kannada": "ವಿಷಯವನ್ನು ನಂಬದಿರುವುದು, ಸಂದೇಹ ಪಡುವ",
+            "pos":"adjective",
+            "example1":"He knows how to convince sceptical customers to buy",
+            "example2":"Some people are still sceptical about corona vaccines",
+            "example3":"I was sceptial about the result when I started it"
+            },
+          {
+            "english": "Vague(not clear)",
+            "kannada": "ಅಸ್ಪಷ್ಟವಾದ, ನಿರ್ಧಿಷ್ಟವಾಗಿರದ",
+            "pos":"adjective",
+            "example1":"He gava a vague explaination",
+            "example2":"I have some vague memories of meeting them",
+            "example3":"Whatever he told was vague and confusing"
+            },
+          {
+            "english": "Sleek",
+            "kannada": "ನಯವಾದ, ಹೊಳೆಯುವ",
+            "pos":"adjective",
+            "example1":"Her dress/hair was sleek and shiny",
+            "example2":"This phone has got a sleek design",
+            "example3":"Who owns that sleek black car parked outside your house?"
+            },
+          {
+            "english": "Soggy",
+            "kannada": "ನೆನೆದ, ಚೆನ್ನಾಗಿ ಒದ್ದೆಯಾದ, ಕೆಸರಿನ",
+            "pos":"adjective",
+            "example1":"Don't enter in those soggy shoes",
+            "example2":"How will you eat in this soggy paper plate?",
+            "example3":"On a soggy morning(dull & lifeless)"
+            },
+          {
+            "english": "Filthy",
+            "kannada": "ಅತ್ಯಂತ ಕೊಳಕಾದ",
+            "pos":"adjective",
+            "example1":"Go wash your filthy hands",
+            "example2":"Look at the carpet - how filthy it is",
+            "example3":"I hate smoking and drinking they are filthy habits"
+            },
+          {
+            "english": "Shabby",
+            "kannada": "ಚಿಂದಿ ಬಟ್ಟೆಯಾದ, ಹರುಕಲಾದ, ದುರ್ವ್ಯವಸ್ಥೆಯಲ್ಲಿರುವ",
+            "pos":"adjective",
+            "example1":"His clothes were old and shabby",
+            "example2":"Who wants to live in that shabby house?",
+            "example3":"The way he speaks to women is shabby(mean & unfair)"
+            },
+          {
+            "english": "Ally(official friend)",
+            "kannada": "ಮಿತ್ರ, ಮಿತ್ರ ರಾಷ್ಟ್ರ",
+            "pos":"noun",
+            "example1":"He is the prime minister's closest political ally",
+            "example2":"They both are now business allies",
+            "example3":"Russia is one of the India's closest ally"
+            },
+          {
+            "english": "Treaty(official agreement)",
+            "kannada": "ಒಪ್ಪಂದ",
+            "pos":"noun",
+            "example1":"Treaty of madras",
+            "example2":"Both sides have agreed to the sign the treaty",
+            "example3":"India has signed the treaty of peace and friendship with nepal"
+            },
+          {
+            "english": "Dispute",
+            "kannada": "ವಿವಾದ, ವಾದ",
+            "pos":"noun",
+            "example1":"The unions are in dispute with management(argument/debate)",
+            "example2":"India is dealing border dispute withe china & pakistan",
+            "example3":"Border dispute"
+            },
+          {
+            "english": "Compliance",
+            "kannada": "ಆದೇಶ ಪಾಲನೆ, ನಿಯಮ ಪಾಲನೆ, ಷರತ್ತು ಪಾಲನೆ",
+            "pos":"noun",
+            "example1":"He is responsible to ensure compliance with the policy",
+            "example2":"Compliance with the new law is expected",
+            "example3":"In compliance with his father's will"
+            },
+          {
+            "english": "Plaintiff",
+            "kannada": "ಒಬ್ಬರ ಮೇಲೆ ಕೋರ್ಟ್ನಲ್ಲಿ ದೂರು ಸಲ್ಲಿಸಿದ ವ್ಯಕ್ತಿ",
+            "pos":"noun",
+            "example1":"The plaintiff claimed the compensation of 25 lakh rupees",
+            "example2":"The judge ruled against/In favor of the plaintiff",
+            "example3":"The judge ruled in favor of the plaintiff"
+            },
+          {
+            "english": "Unprecedented",
+            "kannada": "ಹಿಂದೆಂದೂ ಕಂಡಿರದ, ನಡೆದಿರದ",
+            "pos":"adjective",
+            "example1":"Unprecedented demands on the health care system",
+            "example2":"2020 has been a year of unprecedented events",
+            "example3":"He has won the election with an unprecedented majority"
+            },
+          {
+            "english": "Invincible",
+            "kannada": "ಸೋಲಿಸಲು ಕಷ್ಟವಾದ",
+            "pos":"adjective",
+            "example1":"An invincible warrior/team",
+            "example2":"He only seems to he invincible but you can easily defeat him",
+            "example3":"This does not mean they are invincible and unstoppable"
+            },
+          {
+            "english": "Indispensable",
+            "kannada": "ಅತ್ಯಂತ ಅವಶ್ಯವಾದ, ಕಡೆಗಣಿಸಲಾಗದ, ಬಿಡಲಾಗದ",
+            "pos":"adjective",
+            "example1":"The comuputer is now indispensable machine in business",
+            "example2":"Trees are indispensable for us to be alive",
+            "example3":"It's sad that smartphone have become indispensable part of our life"
+            },
+          {
+            "english": "Indestructible",
+            "kannada": "ನಾಶ ಮಾಡಲು ಅಥವಾ ಮುರಿಯಲು ಅಸಾಧ್ಯವಾದ, ಅಳಿಸಲಾಗದ",
+            "pos":"adjective",
+            "example1":"The sun is indestructible",
+            "example2":"These Indestructible plastics containers are really damaging our earth",
+            "example3":"A man with indestructible will power"
+            },
+          {
+            "english": "Inevitable",
+            "kannada": "ತಪ್ಪಿಸಲಾಗದ, ಸಂಭವಿಸುವುದು ನಿಶ್ಚಿತವಾದ",
+            "pos":"adjective",
+            "example1":"Death is inevitable",
+            "example2":"He said your defeatt is inevitable",
+            "example3":"Accidents are inevitable results of carelessness"
             }
+          
+          
+         
           
           
         ]
