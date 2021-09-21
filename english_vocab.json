@@ -282,7 +282,128 @@
             "example1":"Death is inevitable",
             "example2":"He said your defeatt is inevitable",
             "example3":"Accidents are inevitable results of carelessness"
+            },
+          {
+            "english": "Eventually",
+            "kannada": "ಅಂತಿಮವಾಗಿ, ಸತತ ಪ್ರಯತ್ನ ಅಥವಾ ಕಷ್ಟಗಳ ಬಳಿಕ",
+            "pos":"adverb",
+            "example1":"I eventually passed the exam after four years",
+            "example2":"Eventually, after six hours, we reached the Tirupati temple",
+            "example3":"It might take him a lot of time but he'll do it eventually"
+            },
+          {
+            "english": "Relentlessly",
+            "kannada": "ಪಟ್ಟುಬಿಡದೆ, ಒಂದೇ ಸಮನೆ ಕಠಿಣವಾಗಿ",
+            "pos":"adverb",
+            "example1":"He questioned her relentlessly",
+            "example2":"They relentlessly protested against government",
+            "example3":"He was being bullied relentlessly at school"
+            },
+          {
+            "english": "Seamlessly",
+            "kannada": "ಅಡಚಣೆಗಳಿಲ್ಲದೆ ಆಗುವ, ಸರಾಗವಾಗಿ ಹಾಗೂ ನಿರಂತರವಾಗಿ",
+            "pos":"adverb",
+            "example1":"The conversation continued seamlessly",
+            "example2":"You can seamlessly make payements through this App",
+            "example3":"Our plan had been working seamlessly until then"
+            },
+          {
+            "english": "Spitefully",
+            "kannada": "ಸೇಡಿನಿಂದ / ದ್ವೇಷದಿಂದ",
+            "pos":"adverb",
+            "example1":"It seems he spitefully did it",
+            "example2":"Wait and see what I'm going to do, she said spitefully",
+            "example3":"He spitefully destroyed his brother's professional reputation"
+            },
+          {
+            "english": "Partially",
+            "kannada": "ಅಸಂಪೂರ್ಣವಾಗಿ, ಪೂರ್ತಿ ಅಲ್ಲ",
+            "pos":"adverb",
+            "example1":"The chicken was only partially cooked",
+            "example2":"You are partially correct",
+            "example3":"My work is partially finished"
+            },
+          {
+            "english": "Hectic",
+            "kannada": "ಬಿಡುವಿಲ್ಲದ, ತುಂಬಾ ಬ್ಯುಸಿಯಾದ",
+            "pos":"adjective",
+            "example1":"A hectic schedule/lifestyle/day/week",
+            "example2":"Today was too hectic at work",
+            "example3":"He came to meet us despite his hectic work schedule"
+            },
+          {
+            "english": "Soothing",
+            "kannada": "ಹಿತವಾದ(ಕೇಳಲು ಅಥವಾ ಅನುಭವಿಸಲು), ಶಾಂತಿ ಉಂಟುಮಾಡುವ",
+            "pos":"adjective",
+            "example1":"Please play some soothing music",
+            "example2":"The lush green of post monsoon is soothing to the eyes",
+            "example3":"This oil has soothing properties(pain relief)"
+            },
+          {
+            "english": "Bizarre",
+            "kannada": "ತುಂಬಾ ವಿಚಿತ್ರವಾದ, ಸಾಮಾನ್ಯವಾಗಿರದ",
+            "pos":"adjective",
+            "example1":"Some bizarre events happened last night",
+            "example2":"That's a bizzare behaviour of him",
+            "example3":"They caught a bizzare looking animal on the camera"
+            },
+          {
+            "english": "Envious",
+            "kannada": "ಅಸೂಯೆ ಪಡುವ, ಜಲಸ್ಸಿ",
+            "pos":"adjective",
+            "example1":"I'm not envious of his success",
+            "example2":"He has always felt envious of his brother",
+            "example3":"He saw the envious look in her eyes"
+            },
+          {
+            "english": "Hazardous",
+            "kannada": "ಅಪಾಯಕರ, ಕುತ್ತು ತರಬಲ್ಲ, ತೊಂದರೆಯ",
+            "pos":"adjective",
+            "example1":"Hazardous chemicals/waste/substance/radiation",
+            "example2":"They work in hazardous condition",
+            "example3":"The traffic smoke is extremely hazardous to our health"
+            },
+          {
+            "english": "Misery",
+            "kannada": "ಸಂಕಟ, ಅತೀ ದುಃಖ, ದುಸ್ಥಿತಿ, ಯಾತನೆ",
+            "pos":"noun",
+            "example1":"The family lived in misery for several years",
+            "example2":"Marrigae at early age made her life a misery",
+            "example3":"He confronted both poverty and misery in his life"
+            },
+          {
+            "english": "Instinct",
+            "kannada": "ಸ್ವಭಾವ, ವರ್ತಿಸುವ ಗುಣ",
+            "pos":"noun",
+            "example1":"It's natural human instinct to feel for others",
+            "example2":"Birds learn to fly by instinct",
+            "example3":"Sharks have the killer instinct"
+            },
+          {
+            "english": "Sanity",
+            "kannada": "ವಿವೇಕ, ಬುದ್ದಿವಂತಿಕೆಯಿಂದ ಯೋಚನೆ ಮಾಡು",
+            "pos":"noun",
+            "example1":"People attempt such things when they lack sanity",
+            "example2":"The pressure of his arrest caused him to lose his sanity",
+            "example3":"You have lost your sanity"
+            },
+          {
+            "english": "Humility",
+            "kannada": "ವಿನಯ, ನಮ್ರತೆ, ಹೆಮ್ಮೆ ಪಡದಿರುವ ಗುಣ",
+            "pos":"noun",
+            "example1":"He is a man of modesty and humility",
+            "example2":"He is always ready to accept his mistakes and successes with humility",
+            "example3":"Humility is the begining of wisdom(ಜ್ಞಾನ)"
+            },
+          {
+            "english": "Resilience",
+            "kannada": "ತೊಂದರೆ, ನೋವು, ಕಷ್ಟಗಳಿಂದ ಬೇಗನೆ ಚೇತರಿಸಿಕೊಳ್ಳುವ ಸಾಮರ್ಥ್ಯ",
+            "pos":"noun",
+            "example1":"His greatest strengths are his determination and resilience",
+            "example2":"Lack of resilience in young adults impact on their mental and physical health",
+            "example3":"She has that resilience to any problem in her life"
             }
+          
           
           
          
